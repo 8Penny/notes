@@ -23,7 +23,7 @@ A ping may not be identical to the round-trip time. It differs in that most ping
 
 ### Prediction
 
-Client and server have a same code for prediction. By using N previous states client try to predict next state. Then server predicted the state too and substract it from real state: **RealState - PredictedState = DeltaState**
+Client and server have a same code for prediction. By using N previous states client try to predict next state. Then server predicted the state too and substract it from real state: **PredictedState - RealState = DeltaState**
 
 Server ---DeltaState--> Client
 
