@@ -18,3 +18,4 @@
 | Game Networking (continue)  | [virtual_connection_over_udp](https://web.archive.org/web/20180823012240/https://gafferongames.com/post/virtual_connection_over_udp/), [sending_and_receiving_packets](https://web.archive.org/web/20180823012240/https://gafferongames.com/post/sending_and_receiving_packets/), [udp_vs_tcp](https://web.archive.org/web/20180823012240/https://gafferongames.com/post/udp_vs_tcp/) |
 | Building A Game Network Protocol | [link](https://web.archive.org/web/20180823014904/https://gafferongames.com/categories/building-a-game-network-protocol) |
 | Overwatch Network | https://www.youtube.com/watch?v=vTH2ZPgYujQ |
+| Overwatch Gameplay Architecture & Network | https://youtu.be/W3aieHjyNvw |
