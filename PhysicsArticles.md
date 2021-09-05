@@ -9,6 +9,7 @@ VIDEO:
 
 
 SMALL TOPICS:
+https://www.youtube.com/watch?v=eED4bSkYCB8&ab_channel=Reducible
 - Continuous Collision Detection
 - Sweep and Prune Algorithm
 - Uniform Grid Space Partitioning
